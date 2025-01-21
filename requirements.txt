@@ -1,8 +1,16 @@
+# huggingface diffusion
 diffusers 
 datasets 
 transformers 
 accelerate 
 ftfy 
 pyarrow==9.0.0
+
+# jupyter
 ipykernel
 jupyter
+
+# other
+matplotlib
+scikit-learn
+numpy

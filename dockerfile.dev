@@ -1,5 +1,5 @@
-# usage: docker build -f dockerfile.cpu.devel -t hiseulgi/simple-rag:dev .
-FROM python:3.10-slim
+# usage: docker build -f dockerfile.cpu.devel -t hiseulgi/diffusion-playground:dev .
+FROM huggingface/transformers-pytorch-gpu:4.41.2
 
 ARG USERNAME=sugab
 ARG USER_UID=1000

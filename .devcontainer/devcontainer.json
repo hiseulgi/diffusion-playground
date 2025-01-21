@@ -32,7 +32,8 @@
                 "VisualStudioExptTeam.vscodeintellicode",
                 "redhat.vscode-yaml",
                 "yzhang.markdown-all-in-one",
-                "ms-azuretools.vscode-docker"
+                "ms-azuretools.vscode-docker",
+                "github.copilot"
             ]
         }
     }
