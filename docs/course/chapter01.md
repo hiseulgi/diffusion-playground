@@ -37,3 +37,7 @@ Inference flow:
 - Begin with a random input
 - Repeatedly feed it through the model
 - Update by small amount based on the model prediction
+
+## Experiment Notebook
+- [Introduction to Diffusers](https://github.com/hiseulgi/diffusion-playground/blob/main/notebook/01_introduction_to_diffusers.ipynb)
+- [Diffusion Models from Scratch](https://github.com/hiseulgi/diffusion-playground/blob/main/notebook/02_diffusion_from_scratch.ipynb)
